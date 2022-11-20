@@ -1,0 +1,43 @@
+{
+	"menu1": {
+		"menu": "แกงอ่อมหมู",
+		"pic": "public/img/aom1.png",
+        "price": "150 THB"
+	},
+	"menu2": {
+		"menu": "ไส้กรอกอีสาน",
+		"pic": "public/img/esansauc1.png",
+		"price": "80 THB"
+	},
+	"menu3": {
+		"menu": "ข้าวจี่",
+		"pic": "public/img/khowjee1.png",
+		"price": "25 THB"
+	},
+	"menu4": {
+		"menu": "ลาบหมู",
+		"pic": "public/img/larb1.png",
+		"price": "80 THB"
+	},
+	"menu5": {
+		"menu": "แกงหน่อไม้ฝีมือคุณแม่",
+		"pic": "public/img/normai1.png",
+		"price": "170 THB"
+	},
+	"menu6": {
+		"menu": "ปลาส้ม",
+		"pic": "public/img/prasom1.png",
+		"price": "220 THB"
+	},
+	"menu7": {
+		"menu": "ส้มตำ",
+		"pic": "public/img/somtum1.png",
+		"price": "120 THB"
+	},
+	"menu8": {
+		"menu": "ซอยจุ๊",
+		"pic": "public/img/soyju1.png",
+		"price": "250 THB"
+	}
+	
+}
